@@ -31,3 +31,6 @@ curl -X 'POST' \
   "price": 89000
 }'
 ```
+
+<img width="1587" alt="image" src="https://github.com/user-attachments/assets/539d0876-dd02-4074-9613-3a1b886b9aea">
+
