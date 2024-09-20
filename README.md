@@ -34,4 +34,6 @@ curl -X 'POST' \
 
 <img width="1587" alt="image" src="https://github.com/devgitmanish/transactional-outbox-pattern/blob/main/outboxAM.png">
 <img width="1587" alt="image" src="https://github.com/devgitmanish/transactional-outbox-pattern/blob/main/Screenshot%202024-09-20%20105554.png">
+<img width="1587" alt="image" src="https://github.com/devgitmanish/transactional-outbox-pattern/blob/main/Screenshot%202024-09-20%20105657.png">
+
 
