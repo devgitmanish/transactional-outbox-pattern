@@ -32,5 +32,5 @@ curl -X 'POST' \
 }'
 ```
 
-<img width="1587" alt="image" src="https://github.com/user-attachments/assets/539d0876-dd02-4074-9613-3a1b886b9aea">
+<img width="1587" alt="image" src="https://github.com/devgitmanish/transactional-outbox-pattern/blob/main/outboxAM.png">
 
